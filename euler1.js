@@ -19,6 +19,8 @@ function sumOfMultiples(n) {
   
 
   */
+
+
   for(let i = 1; i < n; i++) {
     let a = i / 3;
     let b = i / 5;
@@ -31,6 +33,10 @@ function sumOfMultiples(n) {
 
 
   // Osama ends stuff here
+
+  // problem is solved
+
+  
   return sum;
 }
 
